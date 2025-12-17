@@ -6,12 +6,12 @@ This Python project provides analytical and numerical solutions for Laplace’s 
 
 **1D Laplace Equation**
 - Analytical solutions for standard boundary conditions.
-- Numerical solutions using finite difference methods.
+- Numerical solutions using Jacobi Iterations.
+- Visualization with scatter plots using Matplotlib 
 
 **2D Laplace Equation**
-- Analytical solutions for separable boundary conditions (when applicable).
-- Numerical solutions using finite difference methods with iterative solvers (Jacobi, Gauss-Seidel).
+- Analytical solutions for standard boundary conditions.
+- Numerical solutions using jacobi Iterations
+- Visualization with heatmaps using Matplotlib
 
-**Visualization**
- - Plotting of numerical solutions using Matplotlib.
- - Contour and surface plots for 2D solutions.
+
